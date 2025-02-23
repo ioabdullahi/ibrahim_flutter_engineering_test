@@ -28,7 +28,7 @@ git clone https://github.com/ioabdullahi/ibrahim_flutter_engineering_test.git
 ```  
 2️⃣ Navigate to the project directory  
 ```sh
-cd your-project-folder
+cd ibrahim_flutter_engineering_test
 ```  
 3️⃣ Install dependencies  
 ```sh
