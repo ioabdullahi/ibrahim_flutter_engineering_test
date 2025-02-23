@@ -1,16 +1,45 @@
-# ibrahim_abdullahi_flutter_engineering_translation_test
+**Overview**  
+This application helps users find real estate properties **easily and conveniently**. The UI is designed to provide a smooth experience with **intuitive navigation and powerful search features**.  
 
-A new Flutter project.
+**Features**  
 
-## Getting Started
+**Home Page**  
+- Displays a **welcome message** and two **main buttons** that direct users to related screens  
+- Highlights the **most popular real estate offers of the day**  
 
-This project is a starting point for a Flutter application.
+**Search Page**  
+- Users can **search for properties on a map**  
+- Select how offers are displayed:  
+  ✅ **By Price** 💰  
+  ✅ **By Location** 📍  
+  ✅ **By Infrastructure** 🏗️  
+- **Heatmap Feature** 🗺️: Shows the **safest and most convenient** areas in the city  
 
-A few resources to get you started if this is your first Flutter project:
+**Getting Started**  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Prerequisites**  
+- Flutter SDK  
+- Dart  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Installation**  
+1️⃣ Clone the repository  
+```sh
+git clone https://github.com/ioabdullahi/ibrahim_flutter_engineering_test.git
+```  
+2️⃣ Navigate to the project directory  
+```sh
+cd your-project-folder
+```  
+3️⃣ Install dependencies  
+```sh
+flutter pub get
+```  
+4️⃣ Run the app  
+```sh
+flutter run
+```  
+
+**Tech Stack**  
+- **Flutter** - Cross-platform framework  
+- **Dart** - Programming language  
+- **Google Maps API** - For location-based features  
